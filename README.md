@@ -32,4 +32,5 @@ git clone https://github.com/tu_usuario/ionic-rick-and-morty.git
 
 ```
 
-![image](https://github.com/Maick1/Ionic_marcianos/assets/86171053/1a7f8102-8662-42e1-9466-114e897a4c18)
+![Screenshot 2024-02-22 170856](https://github.com/Maick1/Ionic_Api/assets/86171053/78809512-c4ae-442e-b048-2334fafac076)
+
